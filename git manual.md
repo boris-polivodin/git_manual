@@ -61,4 +61,5 @@ git diff
    git branch -d <name_branch>
 ## Работа с удаленным репозиторием
 1. Регистрация на GitHub
+
    Зайдите на GitHub.com и создайте свой аккаунт.
