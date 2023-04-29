@@ -60,3 +60,4 @@ git diff
    
    git branch -d <name_branch>
    ## Работа с удаленным репозиторием
+
